@@ -8,3 +8,5 @@ ML first approaching. Implementation of several MK model to detect that a news i
 #### Best Algorithm: PASSIVE AGGRESSIVE CLASSIFIER (PAC)
 ![image](https://github.com/KaiFly/FakeNews_scr/assets/31435580/8e761d2e-c123-456e-944e-b9c4485a2533)
 
+### 3. Documents:
+*R&D Project*: my presentation is details about math behind some ML Algorithms and prediction results on US News Dataset
